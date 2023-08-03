@@ -1,3 +1,26 @@
+autoconf-dickey (2.52+20230114-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Update years in debian/copyright.
+  * Switch debian/copyright to format 1.0.
+
+ -- Sven Joachim <svenjoac@gmx.de>  Mon, 16 Jan 2023 18:23:19 +0100
+
+autoconf-dickey (2.52+20221202-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Bump Standards-Version to 4.6.2, no changes needed.
+
+ -- Sven Joachim <svenjoac@gmx.de>  Mon, 09 Jan 2023 18:51:47 +0100
+
+autoconf-dickey (2.52+20221009-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Update years in debian/copyright.
+  * Bump Standards-Version to 4.6.1, no changes needed.
+
+ -- Sven Joachim <svenjoac@gmx.de>  Sun, 16 Oct 2022 18:20:29 +0200
+
 autoconf-dickey (2.52+20210509-1) unstable; urgency=medium
 
   * New upstream release.
